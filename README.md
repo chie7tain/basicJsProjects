@@ -1,1 +1,2 @@
 # basicJsProjects
+this repo contains code of several js projects created following a course by John smilga, he covers a lot of critical building blocks for creating javascript apps this is the link to the youtube video https://www.youtube.com/watch?v=c5SIG7Ie0dM&t=611s and this the link to his website where you can download the project's starter files https://www.johnsmilga.com/projects this is how the projects would look like click on this link https://www.vanillajavascriptprojects.com/ to see. thanks 
